@@ -1,6 +1,6 @@
 {
-  "name": "Dare-V3-Bot",
-  "version": "3.0.0",
+  "name": "KELVIN",
+  "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
   "type": "commonjs",
