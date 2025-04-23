@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-KELVIN-V4 Multi Device is a automated whatsapp bot created by <a href="https://github.com/Dare-0-1" target="_blank">BMB</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
+KELVIN-V4 Multi Device is a automated whatsapp bot created by <a href="https://github.com/Dare-0-1" target="_blank">KELVIN</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
 </a> <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=KELVIN-V4+WHATSAPP+BOT" alt="">
 </p>
 
