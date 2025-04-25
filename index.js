@@ -147,7 +147,7 @@ markOnlineOnConnect: true,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠂⠐⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ${chalk.green.bold("📃  Information :")}         
-✈ BOT BY KELVIN 
+✈ BOT BY KELVIN TECH, Note : Do Not Misuse This Bot 
 ✈ KELVIN-V4 CREDIT BMB : 2348089405509
 
 ${chalk.green.bold("𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙺𝙴𝙻𝚅𝙸𝙽")}\n`));
