@@ -207,7 +207,7 @@ wait: "𝙻𝙾𝙰𝙳𝙸𝙽𝙶...✍",
 }
  
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "pk-pIWAlRroXTOAigkWdHcYvmlmgzEQXuoMWbVAaLAVZswSRbEB"
+global.keyopenai = "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"
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
